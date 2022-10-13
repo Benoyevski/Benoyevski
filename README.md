@@ -12,3 +12,6 @@
 - JavaScript
 - Git
 - MongoDB
+- HTML
+- СSS
+
