@@ -7,11 +7,8 @@
 - Mongoose
 - Redux
 - Redux toolkit
-- Github
 - React router
+- Github
 - JavaScript
 - Git
 - MongoDB
-
-
-Мой эмейл: ibeno95@mail.ru
