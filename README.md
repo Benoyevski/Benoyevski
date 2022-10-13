@@ -8,7 +8,6 @@
 - Redux
 - Redux toolkit
 - React router
-- Github
 - JavaScript
 - Git
 - MongoDB
