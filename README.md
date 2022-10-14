@@ -16,7 +16,7 @@
 
 ### Мои проекты:
 
-- Сайт с рейтингом кафе и ресторанов <a href="https://github.com/Benoyevski/Revizor-front">Code-Front</a> |
-  <a href= "https://github.com/Benoyevski/Revizor-back">Code-Back</a> 
-- Сайт фриланса клон Workzilla <a href="https://github.com/Benoyevski/freelance-front">Frontend</a> 
+- Сайт с рейтингом кафе и ресторанов <a href="https://github.com/Benoyevski/Revizor-front">Frontend</a> ||
+  <a href= "https://github.com/Benoyevski/Revizor-back">Backend</a> 
+- Сайт фриланса клон Workzilla <a href="https://github.com/Benoyevski/freelance-front">Frontend</a> ||
 <a href="https://github.com/Benoyevski/freelance-back">Backend</a>
