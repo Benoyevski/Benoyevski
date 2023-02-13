@@ -2,6 +2,7 @@
 
 #### Стек технологий с которыми я работаю:
 - React
+- TypeScript
 - Redux
 - Redux toolkit
 - React router
@@ -9,3 +10,4 @@
 - Git
 - HTML
 - СSS
+- Webpack
