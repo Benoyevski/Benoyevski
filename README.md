@@ -15,7 +15,8 @@
 - Webpack
 
 #### Проекты, в разработке которых я принимал участие:
+- https://republic.forma.ru/
+- https://klevo.rest/
+- https://1medcenter.ru/
 
-https://republic.forma.ru/
-https://klevo.rest/
-https://1medcenter.ru/
+
