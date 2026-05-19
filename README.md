@@ -14,9 +14,17 @@
 - Vite
 - Webpack
 
-#### Проекты, в разработке которых я принимал участие:
+#### Проекты, которые я реализовал или в разработке которых я принимал участие:
+- https://portland.forma.ru/
+- https://pave.forma.ru/
+- https://soul.forma.ru/
+- https://moments.forma.ru/
+- https://tatum.forma.ru/
 - https://republic.forma.ru/
 - https://klevo.rest/
 - https://1medcenter.ru/
+
++ 2 внутренних проекта компании (b2b приложение и npm модуль, переиспользуемый на проектах)
+
 
 
